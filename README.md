@@ -11,4 +11,7 @@ Typically, the cost of renting is a small percentage of the house market price, 
 Taking all of that into account, the project aim to develop a map and an information chart informing the average house price and the most common venues per district to assist investors and residents in making their decisions either on where to invest or to live.
 
 [1] Information about Dublin, Wikipedia: https://en.wikipedia.org/wiki/Dublin
+
 [2] Cost of Living Survey, Mercer: https://www.mercer.ie/newsroom/dublin-is-ranked-46th-out-of-209-cities-around-the-world-in-the-mercer-2020-cost-of-living-survey.html
+
+P.S.: The Notebook had the Client ID and other personal information deleted for private issues.
